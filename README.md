@@ -1,2 +1,2 @@
 # github.io
-Official website for DGI Digital apps and games
+Official website for DG Digital apps and games
